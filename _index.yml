@@ -28,7 +28,7 @@ product-family:
   - title: 작업 부하
     tags: data services
   tiles:
-  - title: 설정 및 관리
+  - title: NetApp Console 관리
     icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
     summary: 액세스 관리 및 에이전트 설정을 포함하여 NetApp Console 사용을 시작하는 방법을 알아보세요.
