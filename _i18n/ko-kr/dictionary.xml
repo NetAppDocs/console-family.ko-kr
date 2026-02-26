@@ -151,7 +151,6 @@
   <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">보호</block>
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">스토리지</block>
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">작업 부하</block>
-  <block id="06a16afdc09ef0c65510cc192e5feba7" category="sidebar">액세스 관리 및 에이전트 설정을 포함하여 NetApp Console 사용을 시작하는 방법을 알아보세요.</block>
   <block id="cc58d3a9b2264c4fd8cb1d3f61b90bdc" category="sidebar">NetApp Data Services</block>
   <block id="a579a5e037931a607eeaff13af9a8d92" category="sidebar">스토리지 인프라를 보호하고 보안하세요.</block>
   <block id="bfd15aa26ba0ced782240c4a8b7e517e" category="sidebar">스토리지 관리</block>
@@ -179,4 +178,7 @@
   <block id="7019a39846e9a2c7f7a80eaba91e4a41" category="paragraph"><block ref="7019a39846e9a2c7f7a80eaba91e4a41" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1d593c3f7480ada9580d93cd753c3f93" category="paragraph">이는 귀하의 이메일에 매핑되는 시스템 생성 ID입니다. *NSS 관리* 페이지에서 이메일을 표시할 수 있습니다.<block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> 메뉴.</block>
   <block id="872eaae7deb6035c20f9bfe6deefd03d" category="list-text">로그인 자격 증명 토큰을 새로 고쳐야 하는 경우 *자격 증명 업데이트* 옵션도 있습니다.<block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> 메뉴.</block>
+  <block id="02703dffc7022f0e60a449dd217815b5" category="sidebar">NetApp Console 사용 시작 방법(액세스 관리 및 Console 에이전트 설정 포함)을 알아보십시오.</block>
+  <block id="9406fb3af0e8e2bf8446823785c0e069" category="sidebar">Data Infrastructure Insights</block>
+  <block id="04962f63ab8d912b0992dee20f5b6853" category="sidebar">퍼블릭 클라우드와 프라이빗 데이터 센터를 포함한 모든 리소스를 모니터링하고, 문제를 해결하고, 최적화하세요.</block>
 </blocks>
