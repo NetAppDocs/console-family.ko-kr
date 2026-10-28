@@ -29,67 +29,54 @@ product-family:
     tags: data services
   tiles:
   - title: NetApp Console 관리
-    icon: "./media/icon-admin.png"
     url: "../console-setup-admin/index.html"
     summary: NetApp Console 사용 시작 방법(액세스 관리 및 Console 에이전트 설정 포함)을 알아보십시오.
     tags: all, console, agents
   - title: NetApp Data Services
-    icon: "./media/icon-backup.png"
     url: "../data-services-family/index.html"
     summary: 스토리지 인프라를 보호하고 보안하세요.
     tags: all,health, data services
   - title: 스토리지 관리
-    icon: "./media/icon-onprem.png"
     url: "../storage-management-family/index.html"
     summary: 온프레미스와 클라우드 스토리지를 모두 중앙에서 관리합니다.
     tags: all,storage
   - title: 릴리스 노트
-    icon: "./media/icon-docs.png"
     url: "../console-relnotes/index.html"
     summary: NetApp Console 플랫폼과 데이터 서비스 전반의 새로운 소식을 알아보세요.
     tags: all
   - title: API
-    icon: "./media/icon-api.png"
     url: https://docs.netapp.com/us-en/console-automation/index.html
     summary: 클라우드 기반 리소스를 프로그래밍 방식으로 관리하세요.
     tags: all,api
   - title: 자동화 허브
-    icon: "./media/icon-automation.png"
     url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
     summary: 스크립트 솔루션을 사용하여 NetApp 제품과 서비스의 배포 및 통합을 자동화합니다.
     tags: all,governance
   - title: Data Infrastructure Insights
-    icon: "./media/icon-compute.png"
     url: https://docs.netapp.com/us-en/data-infrastructure-insights/task_cloud_insights_onboarding_1.html
     tags: all,governance
     summary: 퍼블릭 클라우드와 프라이빗 데이터 센터를 포함한 모든 리소스를 모니터링하고, 문제를 해결하고, 최적화하세요.
   - title: 디지털 어드바이저(Active IQ)
-    icon: "./media/icon-activeiq.png"
     url: "../active-iq/index.html"
     tags: all,health
     summary: 최적의 스토리지 상태를 위한 실행 가능한 인텔리전스.
   - title: Licenses and subscriptions
-    icon: "./media/icon-digital-wallet.png"
     url: "../console-licenses-subscriptions/index.html"
     tags: all,console
     summary: 라이센스와 구독을 관리하고 모니터링하세요.
   - title: 수명주기 계획
-    icon: "./media/icon-economic-efficiency.png"
     url: "../console-lifecycle-planning/index.html"
     summary: 용량 한계에 도달한 시스템과 서비스 수명이 끝나가는 시스템에 대한 권장 사항을 받아보세요.
     tags: all,storage
   - title: 소프트웨어 업데이트
-    icon: "./media/icon-software-updates.png"
     url: "../console-software-updates/index.html"
     summary: ONTAP 업그레이드의 평가, 계획 및 실행을 자동화합니다.
     tags: all,health, storage
   - title: 저장 시스템 알림
-    icon: "./media/icon-alerts.png"
     url: "../console-alerts/index.html"
     summary: ONTAP 온프레미스 시스템에 대한 실시간 시스템 알림을 보고 조치를 취합니다.
     tags: all,storage
   - title: 지속 가능성
-    icon: "./media/icon-sustainability.png"
     url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
     summary: 지속 가능성 목표를 달성하기 위해 시스템의 환경적 영향을 모니터링합니다.
     tags: all,health
